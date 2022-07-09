@@ -12,7 +12,6 @@
 |GitHub:           | [https://github.com/skopylov58](https://github.com/skopylov58)      |
 |Leetcode:         | [https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)    |
 |CV:               | [https://github.com/skopylov58/cv](https://github.com/skopylov58/cv)|
-|------------------|---------------------------------------------------------------------|
 
 ## Целевая позиция:
 
