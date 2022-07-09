@@ -19,10 +19,10 @@ Backеnd Java разработчик в сфере телекоммуникац�
 
 ## Умения и навыки:
  - Java, Groovy, Perl, bash
- - Gradle, Docker, Linux, Git, SonarQube, Eclipse
+ - Gradle, Docker, Git, SonarQube, Eclipse, Linux
  - NoSQL базы данных - Coucbase, Redis, Ignite, VoltBb
  - написание функциональных требований, низкоуровневого и высокоуровневого дизайна, UML диаграмм, создание презентаций.
- - JIRA
+ - JIRA, знакомство с Agile методиками.
  
 ## Тренинги и сертификаты
  - Microsoft Certified System Engeenier (MCSE), 2000 г.
@@ -30,6 +30,33 @@ Backеnd Java разработчик в сфере телекоммуникац�
  - Внутренние тренинги HPE  
 
 ## Опыт работы:
+
+### 2000 г. - июль 2008 г.
+
+Компания Viziqor Solutions (бывший  Protek, бывший Flagship) - поставщик OSS решений для телекома.
+Отдел Mediation (Provisioning && CDR retrieval)
+Программист, затем архитектор отдела.
+
+is a large international company that provides
+OSS solutions for telecom industry. I worked as architect and group leader of company Mediation
+department. Mediation is a layer between CCB (Customer Care & Billing) and network elements.
+The function of mediation is CDR (call data records) retrieval and processing and WO (work order)
+provisioning. I have
+· created lisensing architecture and implemented lisense key mechanism in Java and C++ for
+all set of Viziqor products (it is my last project as member of Viziqor TechCouncil)
+· reorganized mediation software development process to meet best industry practices by
+using CVS (version control), JUnit (unit testing), Ant (build tools), PMD (code analysis)
+and permanent refactoring.
+· created an architecture of new Java version of provisioning module (now it consists of near
+200 000 lines of java code) with features like XML work order format, XSL
+transformations to generate MML commands, usage of scripting languages (Groovy,
+Beanshell) to customize network protocol handlers, JMX enabled IOC (inversion of
+control) XML configuration loader and others.
+· also worked as Java developer and implemented some parts of mediation software like
+telnet and ftp protocols, HTTP server (ver. 1.0), internal RPC (remote procedure call)
+communication protocol and many others.
+· taken part in mediation implementations on customer sites in Slovenia (Lubliana), Norway
+(Bergen) and Iceland (Reykjavik, Vodafon)
 
 ### июль 2008 – июль 2022
 
