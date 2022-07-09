@@ -1,16 +1,18 @@
 # Персональная информация (Сергей А. Копылов)
 
-|        |                  |
-|--------|------------------|
-|Фамилия:|           Копылов|
-|Имя:    |           Сергей | 
-|Отчество: |         Анатольевич|
-|Год рождения:|      1958|
-|Место проживания:|  Москва|
-|Мобильный телефон:| +7 926 022 55 67|
-|E-mail:|           [skopylov@gmail.com](mailto:skopylov@gmail.com)|
-|GitHub:|           [https://github.com/skopylov58](https://github.com/skopylov58)|
-|Leetcode:|         [https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)  
+|                  |                                                                 |
+|------------------|---------------------------------------------------------------------|
+|Фамилия:          | Копылов                                                             |
+|Имя:              | Сергей                                                              | 
+|Отчество:         | Анатольевич                                                         |
+|Год рождения:     | 1958                                                                |
+|Место проживания: | Москва                                                              |
+|Мобильный телефон:| +7 926 022 55 67                                                    |
+|E-mail:           | [skopylov@gmail.com](mailto:skopylov@gmail.com)                     |
+|GitHub:           | [https://github.com/skopylov58](https://github.com/skopylov58)      |
+|Leetcode:         | [https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)    |
+|CV:               | [https://github.com/skopylov58/cv](https://github.com/skopylov58/cv)|
+|------------------|---------------------------------------------------------------------|
 
 ## Целевая позиция:
 
@@ -38,7 +40,7 @@ Communications Solutions CMS IUM **R&D Lab**
  - разработка общецелевых компонентов платформы eIUM (enhanced Interactive Unified Mediation)
  - решение проблем заказчика (customer support) в рамках работы со службой поддержки (L2 support)
  - разработка и поддержка внутреннего WEB портала для выпуска/обновления eIUM лицензий
- - разработка и поддержка JDBC и NoSQL решений
+ - разработка и поддержка JDBC и NoSQL решений для пользовательских сессий
   
 ### Достижения
 
