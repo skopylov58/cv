@@ -1,28 +1,31 @@
 # Персональная информация (Сергей А. Копылов)
 
-|                  |                                                                 |
-|------------------|---------------------------------------------------------------------|
-|Фамилия:          | Копылов                                                             |
-|Имя:              | Сергей                                                              | 
-|Отчество:         | Анатольевич                                                         |
-|Год рождения:     | 1958                                                                |
-|Место проживания: | Москва                                                              |
-|Мобильный телефон:| +7 926 022 55 67                                                    |
-|E-mail:           | [skopylov@gmail.com](mailto:skopylov@gmail.com)                     |
-|GitHub:           | [https://github.com/skopylov58](https://github.com/skopylov58)      |
-|Leetcode:         | [https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)    |
-|CV:               | [https://github.com/skopylov58/cv](https://github.com/skopylov58/cv)|
+|                 |                                                                     |
+|-----------------|---------------------------------------------------------------------|
+|Фамилия          | Копылов                                                             |
+|Имя              | Сергей                                                              | 
+|Отчество         | Анатольевич                                                         |
+|Год рождения     | 1958                                                                |
+|Место проживания | Москва                                                              |
+|Мобильный телефон| +7 926 022 55 67                                                    |
+|E-mail           | [skopylov@gmail.com](mailto:skopylov@gmail.com)                     |
+|GitHub           | [https://github.com/skopylov58](https://github.com/skopylov58)      |
+|Leetcode         | [https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)    |
+|CV               | [https://github.com/skopylov58/cv](https://github.com/skopylov58/cv)|
 
 ## Целевая позиция:
 
 Backеnd Java разработчик в сфере телекоммуникаций
 
 ## Умения и навыки:
- - Java, Groovy
- - Gradle, Docker, Linux, Git
+ - Java, Groovy, Perl, bash
+ - Gradle, Docker, Linux, Git, SonarQube, Eclipse
  - NoSQL базы данных - Coucbase, Redis, Ignite, VoltBb
+ - написание функциональных требований, низкоуровневого и высокоуровневого дизайна, UML диаграмм, создание презентаций.
+ - JIRA
  
 ## Тренинги и сертификаты
+ - Microsoft Certified System Engeenier (MCSE), 2000 г.
  - Sun Certified Enterprise Architect (SCEA), 2007 г.  
  - Внутренние тренинги HPE  
 
