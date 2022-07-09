@@ -9,9 +9,8 @@
 |Место проживания:|  Москва|
 |Мобильный телефон:| +7 926 022 55 67|
 |E-mail:|           [skopylov@gmail.com](mailto:skopylov@gmail.com)|
-
-[GitHub:           https://github.com/skopylov58](https://github.com/skopylov58)  
-[Leetcode:         https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)  
+|GitHub:|           [https://github.com/skopylov58](https://github.com/skopylov58)|
+|Leetcode:|         [https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)  
 
 ## Целевая позиция:
 
