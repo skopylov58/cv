@@ -1,16 +1,15 @@
-# Персональная информация (Сергей А. Копылов)
+## Resume (Сергей А. Копылов)
 
-|                 |                                                                     |
-|-----------------|---------------------------------------------------------------------|
-|Фамилия          | Копылов                                                             |
-|Имя              | Сергей                                                              | 
-|Отчество         | Анатольевич                                                         |
-|Год рождения     | 1958                                                                |
-|Место проживания | Москва                                                              |
-|Мобильный телефон| +7 926 022 55 67                                                    |
-|E-mail           | [skopylov@gmail.com](mailto:skopylov@gmail.com)                     |
-|GitHub           | [https://github.com/skopylov58](https://github.com/skopylov58)      |
-|Leetcode         | [https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)    |
+|                       |                                                                     |
+|-----------------------|---------------------------------------------------------------------|
+|Фамилия                | Копылов                                                             |
+|Имя                    | Сергей                                                              | 
+|Отчество               | Анатольевич                                                         |
+|Место проживания       | Москва                                                              |
+|Мобильный телефон      | +7 926 022 55 67                                                    |
+|E-mail                 | [skopylov@gmail.com](mailto:skopylov@gmail.com)                     |
+|GitHub                 | [https://github.com/skopylov58](https://github.com/skopylov58)      |
+|Leetcode               | [https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)    |
 |Ссылка на этот документ| [https://github.com/skopylov58/cv](https://github.com/skopylov58/cv)|
 
 ## Целевая позиция:
