@@ -14,5 +14,13 @@ docker run --rm --volume "$(pwd):/data"\
   --user $(id -u):$(id -g) pandoc-rus\
   SergeyKopylov_CV.md -o SergeyKopylov_CV.pdf\
   --pdf-engine=xelatex -V 'mainfont:DejaVuSans'
+ 
+Еще пример
+pandoc in.md --pdf-engine=lualatex \
+         -V 'mainfont:DejaVuSerif' \
+         -V 'sansfont:DejaVuSans' \
+         -V 'monofont:DejaVuSansMono' \
+         -V 'mathfont:TeXGyreDejaVuMath-Regular' \
+         -o out.pdf
   
   
