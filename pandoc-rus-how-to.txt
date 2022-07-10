@@ -1,0 +1,16 @@
+1. Загрузить docker image pandoc/latex
+2. Расширить образ
+
+FROM pandoc/latex
+RUN apk --update add ttf-dejavu
+
+3. docker build . -t pandoc-rus
+
+3. Использовать новый образ pandoc-rus
+
+docker run --rm --volume "$(pwd):/data"\
+  --user $(id -u):$(id -g) pandoc-rus\
+  SergeyKopylov_CV.md -o SergeyKopylov_CV.pdf\
+  --pdf-engine=xelatex -V 'mainfont:DejaVuSans'
+  
+  
