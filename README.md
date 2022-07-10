@@ -11,7 +11,7 @@
 |E-mail           | [skopylov@gmail.com](mailto:skopylov@gmail.com)                     |
 |GitHub           | [https://github.com/skopylov58](https://github.com/skopylov58)      |
 |Leetcode         | [https://leetcode.com/skopylov/](https://leetcode.com/skopylov/)    |
-|CV               | [https://github.com/skopylov58/cv](https://github.com/skopylov58/cv)|
+|Ссылка на этот документ| [https://github.com/skopylov58/cv](https://github.com/skopylov58/cv)|
 
 ## Целевая позиция:
 
