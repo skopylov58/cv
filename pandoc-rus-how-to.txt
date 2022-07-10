@@ -1,3 +1,5 @@
+Поддержка русского языка в pandoc pdf
+
 1. Загрузить docker image pandoc/latex
 2. Расширить образ
 
