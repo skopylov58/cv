@@ -9,12 +9,13 @@
 |Мобильный телефон      | +7 926 022 55 67                                                    |
 |E-mail                 | [skopylov@gmail.com](mailto:skopylov@gmail.com)                     |
 |GitHub                 | [https://github.com/skopylov58](https://github.com/skopylov58)      |
+|Habr                   | [https://habr.com/ru/users/sergeykopylov/posts/](https://habr.com/ru/users/sergeykopylov/posts/)|
 |Leetcode               | [https://leetcode.com/skopylov/](https://leetcode.com/skopylov)     |
 |Ссылка на этот документ| [https://github.com/skopylov58/cv](https://github.com/skopylov58/cv)|
 
 ## Целевая позиция:
 
-Backеnd Java разработчик в сфере телекоммуникаций
+Backеnd Java разработчик
 
 ## Умения и навыки:
  - Java, Groovy, Perl, bash
@@ -39,7 +40,7 @@ Communications Solutions CMS IUM **R&D Lab**
 
 #### Контекст
 
-"Легаси" система, разрабатываемая с начала 2000 годов, 3.5+ миллионов строк кода Java, 350+ связных модулей.
+Пре-биллинг, "легаси" система, разрабатываемая с начала 2000 годов, 3.5+ миллионов строк кода Java, 350+ связных модулей.
 
 #### Обязанности
 
