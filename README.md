@@ -26,7 +26,7 @@ Backеnd Java разработчик
  - JIRA, знакомство с WaterFall и Agile методиками
  - Проекты на GitHub
  
-## Тренинги и сертификаты
+## Сертификаты и тренинги
  - Microsoft Certified System Engeenier (MCSE), 2000 г.
  - Sun Certified Enterprise Architect (SCEA), 2007 г.  
  - Внутренние тренинги HPE  
