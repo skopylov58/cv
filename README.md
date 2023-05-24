@@ -17,9 +17,6 @@
 
 Backеnd Java разработчик
 
-## Режим работы: 
-Удаленный, полный день
-
 ## Умения и навыки:
  - Java, Groovy
  - Gradle, Docker, Git, SonarQube, Eclipse, Linux
@@ -28,6 +25,9 @@ Backеnd Java разработчик
  - PluntUML, GraphViz
  - JIRA, знакомство с WaterFall и Agile методиками
  - Проекты на GitHub
+
+## Режим работы: 
+Удаленный, полный день
 
 ## Интересы
 Функциональное программирование, изучаю и готов перейти на Scala, Kotlin
