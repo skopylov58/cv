@@ -17,14 +17,20 @@
 
 Backеnd Java разработчик
 
+## Режим работы: 
+Удаленный, полный день
+
 ## Умения и навыки:
- - Java, Groovy, Perl, bash
+ - Java, Groovy
  - Gradle, Docker, Git, SonarQube, Eclipse, Linux
  - NoSQL базы данных - Coucbase, Redis, Ignite, VoltBb
  - написание функциональных требований, низкоуровневого и высокоуровневого дизайна, UML диаграмм, создание презентаций.
  - PluntUML, GraphViz
  - JIRA, знакомство с WaterFall и Agile методиками
  - Проекты на GitHub
+
+## Интересы
+Функциональное программирование, изучаю и готов перейти на Scala, Kotlin
  
 ## Сертификаты и тренинги
  - Microsoft Certified System Engeenier (MCSE), 2000 г.
