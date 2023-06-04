@@ -7,7 +7,7 @@
 |Мобильный телефон      | +7 926 022 55 67                                                    |
 |E-mail                 | [skopylov@gmail.com](mailto:skopylov@gmail.com)                     |
 |Telegram               | https://t.me/SergKopylov                                                    |
-|GitHub                 | [https://github.com/skopylov58?tab=repositories](https://github.com/skopylov58?tab=repositories)|
+|Проекты на GitHub      | [https://github.com/skopylov58?tab=repositories](https://github.com/skopylov58?tab=repositories)|
 |Habr                   | [https://habr.com/ru/users/sergeykopylov/posts/](https://habr.com/ru/users/sergeykopylov/posts/)|
 |Leetcode               | [https://leetcode.com/skopylov/](https://leetcode.com/skopylov)     |
 |Ссылка на этот документ| [https://github.com/skopylov58/cv](https://github.com/skopylov58/cv)|
