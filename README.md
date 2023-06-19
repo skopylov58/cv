@@ -18,6 +18,7 @@ Backеnd Java разработчик
 
 ## Умения и навыки:
  - Java, Groovy
+ - Spring Core/Boot/Data, REST
  - Gradle, Docker, Git, SonarQube, Eclipse, Linux
  - NoSQL базы данных - Coucbase, Redis, Ignite, VoltBb
  - написание функциональных требований, низкоуровневого и высокоуровневого дизайна, UML диаграмм, создание презентаций.
